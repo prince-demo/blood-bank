@@ -1,2 +1,2 @@
-# blood-bank
-u=bank
+# my-blood-bank
+blood-bank
